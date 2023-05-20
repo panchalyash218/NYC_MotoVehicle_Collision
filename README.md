@@ -11,3 +11,6 @@
 
 ● Utilized Tableau and PowerBI to tabulate, drill down, and various custom analytical dashboards depicting critical 
 KPIs.
+
+
+POWER BI - https://app.powerbi.com/view?r=eyJrIjoiMWEwZTYxOTEtOTA2Ni00OTk0LWJmYTEtYjFhZGM1NzRiNWE4IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=ReportSection 
